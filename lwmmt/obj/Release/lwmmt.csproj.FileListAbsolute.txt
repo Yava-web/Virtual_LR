@@ -1,0 +1,72 @@
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\bin\Release\lwmmt.exe.config
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\bin\Release\lwmmt.exe
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\bin\Release\lwmmt.pdb
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\bin\Release\LiveCharts.dll
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\bin\Release\LiveCharts.Wpf.dll
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\bin\Release\MaterialDesignColors.dll
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\bin\Release\MaterialDesignThemes.Wpf.dll
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\bin\Release\LiveCharts.pdb
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\bin\Release\LiveCharts.xml
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\bin\Release\LiveCharts.Wpf.pdb
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\bin\Release\LiveCharts.Wpf.xml
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\bin\Release\MaterialDesignColors.pdb
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\bin\Release\MaterialDesignThemes.Wpf.pdb
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\bin\Release\MaterialDesignThemes.Wpf.xml
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\obj\Release\lwmmt.csproj.AssemblyReference.cache
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\obj\Release\MainWindow.g.cs
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\obj\Release\Practice.g.cs
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\obj\Release\Test.g.cs
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\obj\Release\Theory.g.cs
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\obj\Release\VirtualLR.g.cs
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\obj\Release\App.g.cs
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\obj\Release\lwmmt_MarkupCompile.cache
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\obj\Release\lwmmt_MarkupCompile.lref
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\obj\Release\App.baml
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\obj\Release\MainWindow.baml
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\obj\Release\Practice.baml
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\obj\Release\Test.baml
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\obj\Release\Theory.baml
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\obj\Release\VirtualLR.baml
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\obj\Release\lwmmt.g.resources
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\obj\Release\lwmmt.Properties.Resources.resources
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\obj\Release\lwmmt.csproj.GenerateResource.cache
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\obj\Release\lwmmt.csproj.CoreCompileInputs.cache
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\obj\Release\lwmmt.csproj.CopyComplete
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\obj\Release\lwmmt.exe
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\lwmmt\lwmmt\obj\Release\lwmmt.pdb
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\bin\Release\lwmmt.exe.config
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\bin\Release\lwmmt.exe
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\bin\Release\lwmmt.pdb
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\bin\Release\LiveCharts.dll
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\bin\Release\LiveCharts.Wpf.dll
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\bin\Release\MaterialDesignColors.dll
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\bin\Release\MaterialDesignThemes.Wpf.dll
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\bin\Release\LiveCharts.pdb
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\bin\Release\LiveCharts.xml
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\bin\Release\LiveCharts.Wpf.pdb
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\bin\Release\LiveCharts.Wpf.xml
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\bin\Release\MaterialDesignColors.pdb
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\bin\Release\MaterialDesignThemes.Wpf.pdb
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\bin\Release\MaterialDesignThemes.Wpf.xml
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\obj\Release\lwmmt.csproj.AssemblyReference.cache
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\obj\Release\MainWindow.g.cs
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\obj\Release\Practice.g.cs
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\obj\Release\Test.g.cs
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\obj\Release\Theory.g.cs
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\obj\Release\VirtualLR.g.cs
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\obj\Release\App.g.cs
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\obj\Release\lwmmt_MarkupCompile.cache
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\obj\Release\lwmmt_MarkupCompile.lref
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\obj\Release\App.baml
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\obj\Release\MainWindow.baml
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\obj\Release\Practice.baml
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\obj\Release\Test.baml
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\obj\Release\Theory.baml
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\obj\Release\VirtualLR.baml
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\obj\Release\lwmmt.g.resources
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\obj\Release\lwmmt.Properties.Resources.resources
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\obj\Release\lwmmt.csproj.GenerateResource.cache
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\obj\Release\lwmmt.csproj.CoreCompileInputs.cache
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\obj\Release\lwmmt.csproj.CopyComplete
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\obj\Release\lwmmt.exe
+D:\Универ\Практика 3 курс\Виртуальная ЛР Магниторезистивный ИП\currently version\lwmmt\lwmmt\obj\Release\lwmmt.pdb

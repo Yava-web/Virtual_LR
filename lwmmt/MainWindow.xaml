@@ -1,0 +1,89 @@
+﻿<Window x:Class="lwmmt.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:lwmmt"
+        mc:Ignorable="d"
+        Title="Лабораторная работа" MinHeight="680" Width="1124"
+        WindowStartupLocation="CenterScreen">
+    
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FF232D3E" Offset="0"/>
+            <GradientStop Color="#FF1D222C" Offset="1"/>
+            <GradientStop Color="#FF232D3E" Offset="0.35"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    
+    <Grid Margin="10 0 10 0">
+        
+        <StackPanel>
+            <TextBlock Text="Лабораторная работа на тему:" HorizontalAlignment="Center" FontSize="24" TextWrapping="Wrap" Foreground="White"/>
+            <TextBlock Text="&quot;Определение статической характеристики магниторезистивного ИП&quot;" HorizontalAlignment="Center" FontSize="24" TextWrapping="Wrap" Foreground="White"/>
+            <Border Background="White" Height="1"></Border>
+            <TextBlock Text="Цель работы:" FontSize="20" Foreground="White"/>
+            <TextBlock Text="1. Изучить принцип действия, области применения и схемы магниторезистивных преобразователей (МРП)." FontSize="20" TextWrapping="Wrap" Foreground="White"/>
+            <TextBlock  Margin="0 0 0 30" Text="2. Экспериментально определить статические характеристики магниторезистивного преобразователя перемещений (МРПП)." FontSize="20" TextWrapping="Wrap" Foreground="White"/>
+
+            <TextBlock  Text="Задание:" FontSize="20" TextWrapping="Wrap" Foreground="White"/>
+
+            <TextBlock Margin="0 0 0 30" FontSize="20" TextWrapping="Wrap" Foreground="White">
+                1. Ознакомиться с теоретической частью. <LineBreak/>
+                2. Ознакомиться с исследуемым терморезистивным преобразователем перемещений.<LineBreak/>
+                3. Ознакомиться с лабораторной установкой.<LineBreak/>
+                4. Определить статические характеристики МРП Uв1=f1(x), Uв2=f2(x), Uвых=f3(x) и построить их графики <LineBreak/>
+                5. Сделать выводы по работе. Оценить погрешность проведенного эксперимента с учетом погрешностей используемых приборов.
+            </TextBlock>
+            
+            <Button Name="Begin_Btn" 
+                    Click="Begin_Btn_Click"
+                    HorizontalAlignment="Center" 
+                    Content="ПРИСТУПИТЬ К РАБОТЕ" 
+                    Width="300"
+                    FontSize="20"
+                    Height="40"
+                    Margin="0 0 0 20"
+                    Style="{StaticResource MaterialDesignRaisedDarkButton}"
+                    materialDesign:ButtonAssist.CornerRadius="10"/>
+
+
+            <Button Name="Theory_Btn" 
+                    Click="Theory_Btn_Click" 
+                    HorizontalAlignment="Center" 
+                    Content="Общие сведения" 
+                    Width="300"
+                    FontSize="20"
+                    Height="40"
+                    Margin="0 0 0 20"                    
+                    Style="{StaticResource MaterialDesignRaisedDarkButton}"
+                    materialDesign:ButtonAssist.CornerRadius="10"/>
+                
+            <Button Name="Practice_Btn" 
+                    Click="Practice_Btn_Click"
+                    HorizontalAlignment="Center" 
+                    Content="Эксперементальная часть"
+                    Width="300" 
+                    FontSize="20"
+                    Height="40"
+                    Margin="0 0 0 20"
+                    Style="{StaticResource MaterialDesignRaisedDarkButton}"
+                    materialDesign:ButtonAssist.CornerRadius="10"/>
+            
+
+            <Button Name="Test_Btn" 
+                    Click="Test_Btn_Click"
+                    HorizontalAlignment="Center" 
+                    Content="Тест"
+                    Width="300" 
+                    FontSize="20"
+                    Height="40"
+                    Style="{StaticResource MaterialDesignRaisedDarkButton}"
+                    materialDesign:ButtonAssist.CornerRadius="10"/>
+
+            
+            <!--<materialDesign:PackIcon Kind="CogOutline" Foreground="White" Height="40" Width="40"/>-->
+        </StackPanel>        
+    </Grid>
+</Window>
